@@ -1,2 +1,2 @@
 # BookListRazor
-.Net Core MVC Application to perform CRUD operation.
+.Net Core RazorPages to perform CRUD operation.
